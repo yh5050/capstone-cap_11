@@ -1,6 +1,6 @@
-Name:Yihe Huang
+Name:Yihe Huang, Ishan Malik 
  
-NetID: yh5050
+NetID: yh5050 
 
 Git Repository: https://github.com/yh5050/capstone-cap_11
 
